@@ -24,6 +24,12 @@ We incorporated data from the following sources:
 - **Statsmodels:** For statistical analysis.
 - **wbdata:** API wrapper for World Bank data.
 
+## My Contributions
+- Developed Python scripts for data cleaning and analysis.
+- Created interactive population pyramid visualizations using Plotly.
+- Conducted statistical analysis using Statsmodels and interpreted results.
+
+
 ## Installation & Usage
 To run this notebook locally, ensure you have the required libraries installed. You can install them using pip:
 
